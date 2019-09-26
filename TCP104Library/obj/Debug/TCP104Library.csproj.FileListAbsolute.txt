@@ -1,0 +1,18 @@
+E:\我的文档\My Documents\Visual Studio 2008\Projects\TCP104\TCP104Library\bin\Debug\TCP104Library.dll
+E:\我的文档\My Documents\Visual Studio 2008\Projects\TCP104\TCP104Library\bin\Debug\TCP104Library.pdb
+E:\我的文档\My Documents\Visual Studio 2008\Projects\TCP104\TCP104Library\obj\Debug\ResolveAssemblyReference.cache
+E:\我的文档\My Documents\Visual Studio 2008\Projects\TCP104\TCP104Library\obj\Debug\TCP104Library.dll
+E:\我的文档\My Documents\Visual Studio 2008\Projects\TCP104\TCP104Library\obj\Debug\TCP104Library.pdb
+D:\Program Files (x86)\Tencent\weixinData\WeChat Files\its0539\FileStorage\File\2019-09\104资料\104资料\TCP104\TCP104Library\bin\Debug\TCP104Library.dll
+D:\Program Files (x86)\Tencent\weixinData\WeChat Files\its0539\FileStorage\File\2019-09\104资料\104资料\TCP104\TCP104Library\bin\Debug\TCP104Library.pdb
+D:\Program Files (x86)\Tencent\weixinData\WeChat Files\its0539\FileStorage\File\2019-09\104资料\104资料\TCP104\TCP104Library\obj\Debug\TCP104Library.dll
+D:\Program Files (x86)\Tencent\weixinData\WeChat Files\its0539\FileStorage\File\2019-09\104资料\104资料\TCP104\TCP104Library\obj\Debug\TCP104Library.pdb
+D:\source\电网\TCP104\TCP104Library\bin\Debug\TCP104Library.dll
+D:\source\电网\TCP104\TCP104Library\bin\Debug\TCP104Library.pdb
+D:\source\电网\TCP104\TCP104Library\obj\Debug\TCP104Library.csprojResolveAssemblyReference.cache
+D:\source\电网\TCP104\TCP104Library\obj\Debug\TCP104Library.dll
+D:\source\电网\TCP104\TCP104Library\obj\Debug\TCP104Library.pdb
+D:\source\电网\WindowsFormsApplicationDemo\TCP104Library\bin\Debug\TCP104Library.dll
+D:\source\电网\WindowsFormsApplicationDemo\TCP104Library\bin\Debug\TCP104Library.pdb
+D:\source\电网\WindowsFormsApplicationDemo\TCP104Library\obj\Debug\TCP104Library.dll
+D:\source\电网\WindowsFormsApplicationDemo\TCP104Library\obj\Debug\TCP104Library.pdb
